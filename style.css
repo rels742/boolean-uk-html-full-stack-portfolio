@@ -167,7 +167,7 @@ hr {
 
     display: grid;
     grid-gap: 15px;
-    grid-template-rows: 30px 1fr 30px 20px;
+    grid-template-rows: 50px 1fr 30px 20px;
 
     box-shadow: 2px 3px 4px var(--primary-color-hr);
 }
